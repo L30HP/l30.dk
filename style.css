@@ -19,6 +19,6 @@ html {
   .ubuntu-sans-mono {
     font-family: "Ubuntu Sans Mono", monospace;
     font-optical-sizing: auto;
-    font-weight: <weight>;
+    font-weight: 400;
     font-style: normal;
   }
